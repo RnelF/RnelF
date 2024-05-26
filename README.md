@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RnelF I'm a self thought beginner developer
+- 👋 Hi, I’m @RnelF I'm a community thought developer
 - 👀 I’m interested in Front End Developing and Back End
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on any project I can think of starting while I'm teaching myself.
+- 💞️ I’m looking to collaborate on any project I can think of starting, while I'm learning.
 - 📫 How to reach me you? you can e-mail me at Nelffff@gmail.com.
 
 <!---
