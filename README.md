@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RnelF I'm a Self thought developer.
 - 👀 I’m interested in Front End and Back End Developing.
-- 🌱 I’m currently learning ReactJS.
 - 🚀 My curiosity reaches to the ends of the universe.
 - 🎮 I love gaming, especially RPGs.
 - 🔨 I have a unique skill: once I start something, I do everything to finish it, finding ways even when it's hard.
